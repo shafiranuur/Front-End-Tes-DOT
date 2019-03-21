@@ -1,0 +1,261 @@
+body{
+	font-family: Tw Cen MT;
+}
+.background{
+	background-color: white;
+}
+.bg_atas{
+	width: 100%;
+	height: 891px;
+	background-repeat: no-repeat;
+}
+.bg_atas img{
+	weight :180px;
+	height: 30px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.bg_atas nav{
+	float: right;
+	padding-top: 50px;
+	margin-right: 50px;
+}
+.bg_atas nav a{
+	color: white;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Tw Cen MT;
+	font-size: 17px;
+}
+button{
+  background-color: rgba(255,255,255,0.2);
+  border: none;
+  color: white;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-family: Tw Cen MT;
+  border-radius: 5px;
+}
+*{
+	margin:0;
+	padding: 0;
+}
+.navigation{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+}
+.gambarorang img{
+	height: 500px;
+	margin-left: 100px;
+}
+.ultimate{
+	float: right;
+	margin-right: 100px;
+	width: 400px;
+	height: 300px;
+	margin-top: 150px;
+	color: white;
+}
+.ultimate h1{
+	font-size: 50px;
+}
+.ultimate a{
+	text-decoration: none;
+	color: white;
+	padding-left: 10px;
+}
+.better{
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	margin-top: 150px;
+	color: black;
+}
+.better button{
+	background-color: rgb(51, 153, 255);
+	color: white;
+}
+.title1 {
+	background-color: rgb(255, 255, 255);
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	color: black;
+	float: right;
+	margin-top: -150px;
+	border-radius: 10px;
+	margin-right: 500px;
+	box-shadow: 1px 1px 10px 1px #e6e6e6;
+	
+}
+.title1 .isititle1{
+	padding-top: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
+.title2 {
+	background-color: rgb(255, 255, 255);
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	color: black;
+	float: right;
+	margin-top: -150px;
+	border-radius: 10px;
+	margin-right: 120px;
+	box-shadow: 1px 1px 10px 1px #e6e6e6;
+	
+}
+.title2 .isititle2 {
+	padding-top: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
+.title3 {
+	background-color: rgb(255, 255, 255);
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	color: black;
+	float: right;
+	margin-top: -100px;
+	border-radius: 10px;
+	margin-right: 500px;
+	box-shadow: 1px 1px 10px 1px #e6e6e6;
+	
+}
+.title3 .isititle3{
+	padding-top: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
+.title4 {
+	background-color: rgb(255, 255, 255);
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	color: black;
+	float: right;
+	margin-top: -150px;
+	border-radius: 10px;
+	margin-right: 120px;
+	box-shadow: 1px 1px 10px 1px #e6e6e6;
+	
+}
+.title4 .isititle4{
+	padding-top: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
+.batas{
+	background-color: white;
+	width: 100%;
+	height: 800px;
+}
+.bg_tengah{
+	width: 100%;
+	height: 1024px;
+	background-repeat: no-repeat;
+}
+.texttengah{
+	height: 300px;
+	width: 800px;
+	background-color:white;
+	border-radius: 20px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 50px;
+}
+.tgh{
+	padding-top: 550px;
+}
+.empat{
+	margin-left: 100px;
+	width: 600px;
+	height: 300px;
+	margin-top: 150px;
+	color: black;
+	text-align: center;
+	margin-bottom: 300px;
+}
+.empat button{
+	background-color: rgb(51, 153, 255);
+	color: white;
+}
+.omni{
+	margin-left: 100px;
+	width: 500px;
+	height: 200px;
+	margin-top: 150px;
+	color: black;
+	text-align: center;
+	margin-left: 700px;
+	margin-top: -350px;
+	background-color: white;
+	padding-top: 50px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	box-shadow: 1px 1px 10px 1px #e6e6e6;
+}
+.omni button{
+	background-color: rgb(51, 153, 255);
+	color: white;
+}
+.lima{
+	margin-left: 100px;
+	width: 600px;
+	height: 300px;
+	margin-top: 150px;
+	color: black;
+	text-align: center;
+}
+.lima button{
+	background-color: rgb(51, 153, 255);
+	color: white;
+}
+.bg_bawah{
+	width: 100%;
+	height: 615px;
+	background-repeat: no-repeat;
+}
+.isifooter{
+	margin-top: ;
+	line-height: 2;
+		
+}
+.isifooter a{
+	text-decoration: none;
+	color: white;
+}
+.isifooter1{
+ float: left;
+ padding-left: 60px;
+}
+.isifooter5{
+	float: right;
+	padding-right: 150px;
+}
+
+.isifooter3{
+	float: right;
+	padding-right: 150px;
+}
+.isifooter4{
+	padding-right: 150px;
+	float: right;
+}
+.isifooter2{
+	float: right;
+	padding-right: 100px;
+}
